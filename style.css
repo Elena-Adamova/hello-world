@@ -1,0 +1,47 @@
+/* external style sheet */
+
+body {
+    background-color: rgb(251, 253, 180);
+}
+
+* { 
+    border: 1px solid rgb(234, 128, 15);
+}
+
+p {
+    padding: 10px;
+}
+
+ul {
+    background-color: limegreen;
+}
+
+nav ul {
+    background-color: rgb(250, 246, 38);
+}
+
+section {
+    display: inline-block;
+    width: 32%;
+    height: 200px;
+}
+
+/* ID */
+#hero-img {
+    width: 98%;
+}
+
+/* CLASS */
+
+.lower {
+    background-color: rgb(247, 188, 78);
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+nav ul li a {
+    color: rgb(231, 16, 16);
+}
