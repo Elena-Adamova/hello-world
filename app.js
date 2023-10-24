@@ -11,7 +11,7 @@ console.log(city);
 
 
 // string concatenation
-document.write("Hi " + usersName + " from " + city + "! Welcome to page about my city!");
+document.write("Hi " + usersName + "! " + city + " is a really cool! But now welcome to page about my favorite city");
 
 // if (this is true) {execute this code}
 
